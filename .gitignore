@@ -14,3 +14,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+*.json
+*.csv
+*.csv#
+*.DS_Store
+*.mwb.bak
+*.mwb
+csv/
